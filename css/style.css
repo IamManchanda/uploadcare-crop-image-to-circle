@@ -1,4 +1,5 @@
-.uploadcare--powered-by.uploadcare--dialog__powered-by {
+.uploadcare--powered-by.uploadcare--dialog__powered-by,
+.uploadcare--powered-by.uploadcare--panel__powered-by {
   display: none;
 }
 
